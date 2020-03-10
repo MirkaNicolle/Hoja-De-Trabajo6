@@ -1,3 +1,9 @@
+// HOJA DE TRABAJO 6
+// UVG - 10 DE MARZO DEL 2020
+// MIRKA MONZÓN 18139
+// DANIELA VILLAMAR 19086
+
+
 public class Card {
 
     private String cardName;
